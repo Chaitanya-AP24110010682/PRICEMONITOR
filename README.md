@@ -1,4 +1,5 @@
 #PRICEMONITOR
+
 Automated E-Commerce Price Monitor & System Analytics Engine
 A production-grade, highly resilient backend utility architecture written in Python. This system features an automated tracking simulator that generates high-volume transaction logs under volatile network conditions, paired with an optimized, high-performance analytics processor to parse and analyze market metrics.
 
